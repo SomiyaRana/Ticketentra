@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Inngest cachegit init
+.inngest/
