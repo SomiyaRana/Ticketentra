@@ -6,9 +6,9 @@
 
 ## 🚀 Tech Stack
 
-| Frontend        | Backend          | Workflow / Queue | Database  | Auth       | Styling      |
-|-----------------|------------------|------------------|-----------|------------|--------------|
-| React.js (Vite) | Node.js + Express| Inngest           | MongoDB   | JWT Tokens | Tailwind CSS |
+| Frontend        | Backend          | Workflow / Queue | Database  | Auth       | 
+|-----------------|------------------|------------------|-----------|------------|
+| React.js (Vite) | Node.js + Express| Inngest           | MongoDB   | JWT Tokens |
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### Frontend
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 
 ### Backend
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
