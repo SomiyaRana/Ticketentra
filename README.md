@@ -97,21 +97,13 @@ npm install
 # Run Inngest dev server or deploy
 ```
 ---
-##🧠 Learnings & Highlights
-🧬 Used Inngest to handle async background workflows efficiently
 
-📦 Followed modular folder structure for maintainability
 
-⏱️ Created real-time ticket resolution experience
-
-🛠️ Integrated MERN stack with clean code practices
----
-
-## 🧑‍💻 Author
+### 🧑‍💻 Author
 
 Made with ❤️ by [Somiya Rana](https://github.com/SomiyaRana)  
 Special thanks to [Hitesh Choudhary](https://github.com/hiteshchoudhary) for project inspiration.
----
 
-## 📄 License
+
+### 📄 License
 This project is licensed under the MIT License.
